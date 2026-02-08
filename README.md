@@ -9,4 +9,4 @@
 </picture>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xyaxxya)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyaxxya)
+![GitHub Streak](https://streak-stats.demolab.com/?user=xyaxxya)
