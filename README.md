@@ -8,3 +8,4 @@
 </picture>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xyaxxya)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
