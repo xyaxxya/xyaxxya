@@ -7,4 +7,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xyaxxya/xyaxxya/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xyaxxya)
